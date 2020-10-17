@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+
+    background-color: aqua;
+    height: 100px;
+    text-align: center;
+}
+.header h1{
+
+    color: lawngreen;
+    font-size: 30px;
+}
+.banner{
+
+    background-color: yellow;
+    height: 300px;
+    text-align: center;
+}
+.banner h1{
+
+    color: violet;
+    font-size: 40px;
+}
+.artical{
+
+    overflow: hidden;
+}
+.img{
+    
+    background-color: yellowgreen;
+    height: 400px;
+    width: 50%;
+    text-align: center;
+    float: left;
+}
+.img h1{
+
+    color: yellow;
+    height: 40px;
+}
+.contant{
+
+    background-color: goldenrod;
+    height: 400px;
+    width: 50%;
+    text-align: center;
+    float: right;
+}
+.contant h1{
+
+    color: greenyellow;
+    height: 40px;
+}
+.footer{
+
+    background-color: hotpink;
+    height: 100px;
+    text-align: center;
+}
+.footer h1{
+
+    color: lawngreen;
+    height: 30px;
+}
